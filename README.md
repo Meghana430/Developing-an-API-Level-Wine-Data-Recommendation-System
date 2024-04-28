@@ -1,3 +1,3 @@
 # Developing-an-API-Level-Wine-Data-Recommendation-System
 
-Our Practicum Partner- Standard Insights has a retail client
+Developed a wine recommendor system for wine data using Collarative Filtering and Cosine Similarity Matching
