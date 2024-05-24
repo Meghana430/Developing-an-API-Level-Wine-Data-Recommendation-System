@@ -18,7 +18,7 @@ The system processes retail data to analyze user preferences and utilizes simila
 
 ## Project Structure
 
-```plaintext
+plaintext
 wine_recommendation_api/
     ├── app.py               # Flask application and API endpoints
     ├── recommendation.py    # Implements the recommendation logic
