@@ -9,7 +9,7 @@ Welcome to the Wine Recommendation API! This project leverages Collaborative Fil
 ## Features
 
 - **Personalized Recommendations**: Offers wine suggestions tailored to the user's past interactions and preferences.
-- **Advanced Matching Techniques**: Utilizes Collaborative Filtering and Cosine Similarity to identify the best wine matches.
+- **Advanced Matching Techniques**: Utilizes Collaborative Filtering and Cosine Similarity to identify the best wine matches
 - **User-Friendly API**: Easy-to-use endpoints for submitting user data and receiving wine recommendations.
 
 ## How It Works
