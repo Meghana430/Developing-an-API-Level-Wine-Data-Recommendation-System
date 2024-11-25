@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Welcome to the Wine Recommendation API! This project leverages Collaborative Filtering and Cosine Similarity Matching techniques to deliver personalized wine recommendations based on users' preferences and past purchase history. The goal is to customize wine selections for users by understanding their tastes and providing matches that resonate with their preferences
+Welcome to the Wine Recommendation API! This project leverages Collaborative Filtering and Cosine Similarity Matching techniques to deliver personalized wine recommendations based on users' preferences and past purchase history. The goal is to customize wine selections for users by understanding their tastes and providing matches that resonate with their preferences.
 
 ## Features
 
